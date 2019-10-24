@@ -1,1 +1,1 @@
-# repositorio esto es un redme
+# repositorio esto es un readme
